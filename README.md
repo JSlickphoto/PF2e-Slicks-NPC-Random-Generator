@@ -26,6 +26,6 @@ Steps for Module Usage:
 
 Notice: A couple of the tables are adapted work from foundry_community_tables and are protected un Creative Commons 4.0 so I am giving them Credit for a couple of them.  They have been altered to be more applicable to PF2e specifically. But, giving credit is important. Thanks guys.  I encourage everyone to DL that Module and check it out.  Also the Deities table for the Inner Sea as well as Elven and Dwarven Pantheon utilizes PF2e system compendium material and is protected under OGL.  
 
-Special Thanks to: JFoley, roninseven for the help with the code and moccros advice, my buddies at goblin salvage rights, especially Oakstubble, Dee, and chrithit for brainstorming with me, the FoundryVTT #module-development channel guys who were so helpful
+Special Thanks to: JFoley, roninseven for the help with the code and moccros advice, my buddies at goblin salvage rights, especially Oakstubble, Dee, and chrithit for brainstorming with me and Erik for making me think about making great NPC's, the FoundryVTT #module-development channel guys who were so helpful
 
 jslickphoto@gmail.com
