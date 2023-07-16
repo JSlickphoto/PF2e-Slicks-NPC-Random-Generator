@@ -29,6 +29,7 @@ Notice: A couple of the tables are adapted work from foundry_community_tables an
 Special Thanks to: JFoley, roninseven for the help with the code and macros advice, my buddies at goblin salvage rights, especially Oakstubble, Dee, and chrithit for brainstorming with me and Erik for making me think about making great NPC's, the FoundryVTT #module-development channel guys on discord who were so helpful
 
 Any questions? Feel free to reach out at:
+
 jslickphoto@gmail.com
 discord user is jslickphoto or slick#2878
 discord channel is "The Cupcake Guild": https://discord.gg/UPTbjfuZ
