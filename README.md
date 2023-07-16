@@ -31,5 +31,6 @@ Special Thanks to: JFoley, roninseven for the help with the code and macros advi
 Any questions? Feel free to reach out at:
 
 jslickphoto@gmail.com
+
 discord user is jslickphoto or slick#2878
 discord channel is "The Cupcake Guild": https://discord.gg/UPTbjfuZ
