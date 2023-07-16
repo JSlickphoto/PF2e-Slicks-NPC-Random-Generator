@@ -1,12 +1,12 @@
 READ ME for PF2e Slicks NPC Random Generator: 
 
-Description: This Module Creates an actor or journal entry or both using macros to create from a MasterNPC generator that utilizes 75 different roll tables nested into the MasterNPC rolltable for your PF2e system. The actor created will have the generated data within its private notes in the actors notes section.
+**Description:** This Module Creates an actor or journal entry or both using macros to create from a MasterNPC generator that utilizes 75 different roll tables nested into the MasterNPC rolltable for your PF2e system. The actor created will have the generated data within its private notes in the actors notes section.
 
 Compatible w v10 and v11
 
 MAKE SURE YOU ROLL THE MASTER ONCE: this will allow the macro work going forward
 
-Steps for Module Usage:
+**Steps for Module Usage:**
 1) Download Module
 2) Go to manage modules and activate it
 3) Go to Compendiums
@@ -28,7 +28,7 @@ Notice: A couple of the tables are adapted work from foundry_community_tables an
 
 Special Thanks to: JFoley, roninseven for the help with the code and macros advice, my buddies at goblin salvage rights, especially Oakstubble, Dee, and chrithit for brainstorming with me and Erik for making me think about making great NPC's, the FoundryVTT #module-development channel guys on discord who were so helpful
 
-Any questions? Feel free to reach out at:
+**Any questions? Feel free to reach out at:**
 
 **jslickphoto@gmail.com**
 
