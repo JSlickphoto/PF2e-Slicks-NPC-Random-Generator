@@ -1,10 +1,10 @@
 READ ME for PF2e Slicks NPC Random Generator: 
 
+MAKE SURE YOU ROLL THE MASTER ONCE: this will allow the macro work going forward
+
 **Description:** This Module Creates an actor or journal entry or both using macros to create from a MasterNPC generator that utilizes 75 different roll tables nested into the MasterNPC rolltable for your PF2e system. The actor created will have the generated data within its private notes in the actors notes section.
 
 Compatible w v10 and v11
-
-MAKE SURE YOU ROLL THE MASTER ONCE: this will allow the macro work going forward
 
 **Steps for Module Usage:**
 1) Download Module
