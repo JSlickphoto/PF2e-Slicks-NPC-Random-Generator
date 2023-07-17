@@ -1,0 +1,54 @@
+{
+	"id": "PF2e-Slicks-NPC-Random-Generator",
+	"title": "PF2e Slicks NPC Random Generator",
+	"description": "This is a 73 nested rolltables that go into a single master rolltable to produce an NPC for PF2e",
+	"authors": [{
+		"name": "Slick"
+	}],
+	"version": "1.0.1",
+	"compatibility": {
+		"minimum": 10,
+		"verified": 11,
+                "maximum": 11
+	},
+	"packs": [{
+			"name": "slicks-master-journal-links",
+			"label": "Slicks NPC Random Generator Journal Entries",
+			"path": "packs/slicks-master-journal-links.db",
+			"type": "JournalEntry",
+			"module": "PF2e-Slicks-NPC-Random-Generator"
+		},
+		{
+			"name": "slicks-master-npc-generator",
+			"label": "Slicks NPC Random Generator Roll Tables",
+			"path": "packs/slicks-master-npc-generator.db",
+			"type": "RollTable",
+			"module": "PF2e-Slicks-NPC-Random-Generator"
+		},
+                {
+			"name": "masternpc",
+			"label": "Slicks NPC Random Master",
+			"path": "packs/slicks-masternpc.db",
+			"type": "RollTable",
+			"module": "PF2e-Slicks-NPC-Random-Generator"
+		},
+		{
+			"name": "slicks-master-macro",
+			"label": "Slicks NPC Random Generator Macros",
+			"path": "packs/slicks-master-macro.db",
+			"type": "Macro",
+			"module": "PF2e-Slicks-NPC-Random-Generator"
+		}
+	],
+	"packFolders": [{
+		"name": "Random NPC Generator",
+		"sorting": "m",
+		"packs": [
+			"slicks-master-journal-links",
+			"slicks-master-npc-generator",
+			"slicks-master-macro",
+			"deities-2",
+			"masternpc"
+		]
+	}]
+}
