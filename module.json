@@ -11,6 +11,17 @@
 		"verified": 11,
 		"maximum": 11
 	},
+	"relationships": {
+		"systems": [{
+			"id": "pf2e",
+			"type": "system",
+			"manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+			"compatibility": {
+				"minimum": "4.7.0",
+				"verified": "5.1.2"
+			}
+		}]
+	},
 	"packs": [{
 			"name": "slicks-master-journal-links",
 			"label": "Slicks NPC Random Generator Journal Entries",
