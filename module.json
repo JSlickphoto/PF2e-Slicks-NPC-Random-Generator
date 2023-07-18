@@ -25,6 +25,7 @@
 			"label": "Slicks NPC Random Generator Roll Tables",
 			"path": "packs/slicks-master-npc-generator.db",
 			"type": "RollTable",
+			"system": "pf2e",
 			"module": "PF2e-Slicks-NPC-Random-Generator"
 		},
 		{
