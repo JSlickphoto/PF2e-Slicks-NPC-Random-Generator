@@ -63,6 +63,6 @@
 		]
 	}],
 	"url": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator",
-	"manifest": "https://raw.githubusercontent.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/main/module.json",
+	"manifest": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/releases/download/v1.01/module.json",
 	"download": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/archive/refs/tags/v1.01.zip"
 }
