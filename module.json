@@ -4,7 +4,7 @@
 	"description": "This is a 73 nested rolltables that go into a single master rolltable to produce an NPC for PF2e",
 	"authors": [{
 		"name": "Slick",
-		"system": "pfse",
+		"system": "pf2e",
 		"manifest": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/blob/main/module.json"
 	}],
 	"version": "1.0.1",
