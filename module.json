@@ -2,18 +2,16 @@
 	"id": "pf2e-slicks-npc-random-generator",
 	"title": "PF2e Slicks NPC Random Generator",
 	"description": "This is a 73 nested rolltables that go into a single master rolltable to produce an NPC for PF2e",
-	 "authors": [
-      {
+	"authors": [{
 		"name": "Slick"
-	  }
-    ],
+	}],
 	"version": "1.0.1",
 	"compatibility": {
 		"minimum": 10,
 		"verified": 11,
-                "maximum": 11
+		"maximum": 11
 	},
-"relationships": {
+	"relationships": {
 		"systems": [{
 			"id": "pf2e",
 			"type": "system",
@@ -21,10 +19,10 @@
 			"compatibility": {
 				"minimum": "3.13.5",
 				"verified": "4.12.6"
-		}}],
-}
-	"packs": [
-	   	{
+			}
+		}]
+	},
+	"packs": [{
 			"name": "slicks-master-journal-links",
 			"label": "Slicks NPC Random Generator Journal Entries",
 			"path": "packs/slicks-master-journal-links.db",
@@ -38,7 +36,7 @@
 			"type": "RollTable",
 			"module": "PF2e-Slicks-NPC-Random-Generator"
 		},
-                {
+		{
 			"name": "masternpc",
 			"label": "Slicks NPC Random Master",
 			"path": "packs/slicks-masternpc.db",
@@ -60,10 +58,11 @@
 			"slicks-master-journal-links",
 			"slicks-master-npc-generator",
 			"slicks-master-macro",
-			"deities-2",
 			"masternpc"
-	}]],
- "url": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator",
- "manifest": "https://raw.githubusercontent.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/main/module.json",
-  "download": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/archive/refs/tags/v1.01.zip"
+
+		]
+	}],
+	"url": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator",
+	"manifest": "https://raw.githubusercontent.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/main/module.json",
+	"download": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/archive/refs/tags/v1.01.zip"
 }
