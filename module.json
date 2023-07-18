@@ -1,26 +1,16 @@
 {
-	"id": "pf2e-slicks-npc-random-generator",
+	"id": "pf2ee-slicks-npc-random-generator",
 	"title": "PF2e Slicks NPC Random Generator",
 	"description": "This is a 73 nested rolltables that go into a single master rolltable to produce an NPC for PF2e",
 	"authors": [{
-		"name": "Slick"
+		"name": "Slick",
+		"manifest": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/blob/main/module.json"
 	}],
 	"version": "1.0.1",
 	"compatibility": {
 		"minimum": 10,
 		"verified": 11,
 		"maximum": 11
-	},
-	"relationships": {
-		"systems": [{
-			"id": "pf2e",
-			"type": "system",
-			"manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
-			"compatibility": {
-				"minimum": "4.7.0",
-				"verified": "5.1.2"
-			}
-		}]
 	},
 	"packs": [{
 			"name": "slicks-master-journal-links",
