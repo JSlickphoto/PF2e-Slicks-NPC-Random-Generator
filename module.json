@@ -1,7 +1,7 @@
 {
 	"id": "pf2e-slicks-npc-random-generator",
 	"title": "PF2e Slicks NPC Random Generator",
-	"description": "This is a 73 nested rolltables that go into a single master rolltable to produce an NPC for PF2e",
+	"description": "This is a 75 nested rolltables that go into a single master rolltable to produce an NPC for PF2e",
 	"authors": [{
 		"name": "Slick"
 	}],
