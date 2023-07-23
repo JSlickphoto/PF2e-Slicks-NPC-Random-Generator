@@ -1,26 +1,21 @@
 {
-	"id": "pf2e-slicks-npc-random-generator",
+	"id": "PF2e-Slicks-NPC-Random-Generator",
 	"title": "PF2e Slicks NPC Random Generator",
-	"description": "This is a 75 nested rolltables that go into a single master rolltable to produce an NPC for PF2e",
-	"authors": [{
-		"name": "Slick"
-	}],
-	"version": "1.0.1",
+	"description": "This is a 73 nested rolltables that go into a single master rolltable to produce an NPC for PF2e",
+	"license": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/blob/main/OpenGameLicense.md",
+  "readme": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/blob/main/README.md",
+	"authors": [
+		{
+		"name": "Slick",
+		"url": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator",
+    "discord": "slick#2878",
+	}
+],
+	"version": "1.0.0",
 	"compatibility": {
 		"minimum": 10,
-		"verified": 11,
-		"maximum": 11
-	},
-	"relationships": {
-		"systems": [{
-			"id": "pf2e",
-			"type": "system",
-			"manifest": "https://github.com/foundryvtt/pf2e/releases/download/latest/system.json",
-			"compatibility": {
-				"minimum": "3.13.5",
-				"verified": "4.12.6"
-			}
-		}]
+		"verified": 11.305
+		 "maximum": "11"	
 	},
 	"packs": [{
 			"name": "slicks-master-journal-links",
@@ -36,7 +31,7 @@
 			"type": "RollTable",
 			"module": "PF2e-Slicks-NPC-Random-Generator"
 		},
-		{
+ 		{
 			"name": "masternpc",
 			"label": "Slicks NPC Random Master",
 			"path": "packs/slicks-masternpc.db",
@@ -59,10 +54,10 @@
 			"slicks-master-npc-generator",
 			"slicks-master-macro",
 			"masternpc"
-
 		]
-	}],
-	"url": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator",
-	"manifest": "https://raw.githubusercontent.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/main/module.json",
-	"download": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/archive/refs/tags/v1.01.zip"
+	}
+],
+"url": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator",
+"manifest": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/releases/latest/download/module.json",
+"download": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator/releases/download/v1.01/module.zip"
 }
