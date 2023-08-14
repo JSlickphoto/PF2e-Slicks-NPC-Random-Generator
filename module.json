@@ -8,13 +8,13 @@
 		{
 		"name": "Slick",
 		"url": "https://github.com/JSlickphoto/PF2e-Slicks-NPC-Random-Generator",
-    "discord": "slick#2878",
+    "discord": "slick#2878"
 	}
 ],
 	"version": "1.0.0",
 	"compatibility": {
 		"minimum": 10,
-		"verified": 11.305
+		"verified": 11.305,
 		 "maximum": "11"
 	},
 	"packs": [{
