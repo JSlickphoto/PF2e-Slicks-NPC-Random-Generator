@@ -13,8 +13,8 @@
 ],
 	"version": “1.0.1”,
 	"compatibility": {
-		"minimum": “10”,
-		"verified": “11.305”,
+		"minimum": "10",
+		"verified": "11.305",
 		 "maximum": "11"
 	},
 	"packs": [{
